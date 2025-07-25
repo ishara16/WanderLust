@@ -11,9 +11,9 @@ Live Demo - https://project-2bqj.onrender.com/listings
 - **Responsive Design** - Works seamlessly on desktop and mobile
 
 # Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, EJS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Authentication:** passport-local-mongoose (uses bcrypt), express-session
-- **File Upload:** Multer, Cloudinary
-- **Deployment:** Render
+- **Frontend** - HTML, CSS, JavaScript, Bootstrap, EJS
+- **Backend** - Node.js, Express.js
+- **Database** - MongoDB
+- **Authentication** - passport-local-mongoose (uses bcrypt), express-session
+- **File Upload** - Multer, Cloudinary
+- **Deployment** - Render
